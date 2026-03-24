@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 41ff8ab12c4d0c14c981807958bd08a0
+timeCreated: 1553600395
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/Materials/_Broccoli_brocolliSG.mat
+  uploadId: 612674

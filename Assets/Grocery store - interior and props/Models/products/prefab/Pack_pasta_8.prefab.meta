@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 72e83bfa2eb0b3d4cb8228737129ed5c
+timeCreated: 1573631699
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/prefab/Pack_pasta_8.prefab
+  uploadId: 612674

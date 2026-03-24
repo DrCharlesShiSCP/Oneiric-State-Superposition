@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0e34817a328b4134f86deb88162f5f13
+timeCreated: 1573471766
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/Materials/car_backet.mat
+  uploadId: 612674

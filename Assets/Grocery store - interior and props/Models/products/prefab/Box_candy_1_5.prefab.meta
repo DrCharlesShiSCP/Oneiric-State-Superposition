@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 99d65436d1c6bf94abf94c76e2a25bd3
+timeCreated: 1573720133
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/prefab/Box_candy_1_5.prefab
+  uploadId: 612674

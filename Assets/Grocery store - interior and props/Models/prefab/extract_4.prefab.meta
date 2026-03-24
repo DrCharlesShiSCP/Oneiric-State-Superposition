@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 904a129178398cd48b607d5d190b154b
+timeCreated: 1573727936
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/prefab/extract_4.prefab
+  uploadId: 612674

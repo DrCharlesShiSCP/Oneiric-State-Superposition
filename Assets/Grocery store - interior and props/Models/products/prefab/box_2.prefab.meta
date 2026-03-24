@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 19ab23260e2086e4ca8c297b8dcc8c40
+timeCreated: 1554364415
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/prefab/box_2.prefab
+  uploadId: 612674

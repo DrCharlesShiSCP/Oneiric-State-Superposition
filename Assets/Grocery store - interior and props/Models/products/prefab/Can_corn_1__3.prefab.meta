@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 864f9097d31de5b408c960153b6fe083
+timeCreated: 1573925340
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/prefab/Can_corn_1__3.prefab
+  uploadId: 612674

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3114ef3871af6ce468a337bfd284de65
+timeCreated: 1573475106
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/prefab/bread_8.prefab
+  uploadId: 612674

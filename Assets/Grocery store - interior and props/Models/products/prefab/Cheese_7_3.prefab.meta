@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7ff726340ff1b434c982716fa604659a
+timeCreated: 1574686159
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/prefab/Cheese_7_3.prefab
+  uploadId: 612674

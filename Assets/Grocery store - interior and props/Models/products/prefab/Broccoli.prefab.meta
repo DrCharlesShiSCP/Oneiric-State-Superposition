@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3dcd475e97067334f99a63ace797d552
+timeCreated: 1573475143
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/prefab/Broccoli.prefab
+  uploadId: 612674

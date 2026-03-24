@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6424a312aed35bb4186f19d26928c40d
+timeCreated: 1573649342
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/Materials/floor_1.mat
+  uploadId: 612674

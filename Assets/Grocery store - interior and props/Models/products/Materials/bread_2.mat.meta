@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8f9f920499f15aa43bcd2f8ad3159e2d
+timeCreated: 1553601656
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/Materials/bread_2.mat
+  uploadId: 612674

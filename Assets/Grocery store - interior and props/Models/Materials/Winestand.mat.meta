@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 39525c67ff871b847b8d499a4fef9a01
+timeCreated: 1573471762
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/Materials/Winestand.mat
+  uploadId: 612674

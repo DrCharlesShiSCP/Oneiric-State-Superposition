@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 51bad6ba3406e404e8c34dad33aad30f
+timeCreated: 1574177151
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/prefab/Sausage_6_4.prefab
+  uploadId: 612674

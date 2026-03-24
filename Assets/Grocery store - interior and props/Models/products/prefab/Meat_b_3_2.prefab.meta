@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b08248ee2202b7444a5080e58c1cfeac
+timeCreated: 1574780170
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/prefab/Meat_b_3_2.prefab
+  uploadId: 612674

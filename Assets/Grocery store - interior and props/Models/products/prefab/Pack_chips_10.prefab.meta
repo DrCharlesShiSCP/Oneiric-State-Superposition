@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bc5c743de4ab5f34faad92ce666b1e35
+timeCreated: 1573631587
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/prefab/Pack_chips_10.prefab
+  uploadId: 612674

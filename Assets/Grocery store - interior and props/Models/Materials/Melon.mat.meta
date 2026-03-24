@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 31c8b3e582a303445ac58aa8560a960e
+timeCreated: 1573471767
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/Materials/Melon.mat
+  uploadId: 612674

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e8f36ca190fb12f468477e8d5d07f013
+timeCreated: 1573473922
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/prefab/Small_fridge.prefab
+  uploadId: 612674

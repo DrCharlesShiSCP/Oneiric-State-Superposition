@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e928ac5571e3464468fe0b76851c61af
+timeCreated: 1574779697
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/prefab/Signboard_10_beer.prefab
+  uploadId: 612674

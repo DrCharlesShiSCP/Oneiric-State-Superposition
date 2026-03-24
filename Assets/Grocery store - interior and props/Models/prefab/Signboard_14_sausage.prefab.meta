@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 986ec28a03f28d54fa3cd35abd315d10
+timeCreated: 1574779683
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/prefab/Signboard_14_sausage.prefab
+  uploadId: 612674

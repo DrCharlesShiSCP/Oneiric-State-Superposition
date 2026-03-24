@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 075d74000bdcc6345b72911ec994fb78
+timeCreated: 1573720383
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/prefab/Box_wash_2_5.prefab
+  uploadId: 612674

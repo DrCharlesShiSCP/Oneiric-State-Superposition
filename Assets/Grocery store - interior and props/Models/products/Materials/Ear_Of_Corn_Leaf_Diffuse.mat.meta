@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 386fb95a8a672854882703b9d5ddf939
+timeCreated: 1553592076
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/Materials/Ear_Of_Corn_Leaf_Diffuse.mat
+  uploadId: 612674

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8a2a83a370a187b4abb0e063329afa62
+timeCreated: 1573471762
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/Materials/Tomato.mat
+  uploadId: 612674

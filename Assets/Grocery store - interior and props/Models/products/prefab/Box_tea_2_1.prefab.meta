@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c180bcc1ac77a3e419609cd6ed7a0134
+timeCreated: 1573720327
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/prefab/Box_tea_2_1.prefab
+  uploadId: 612674
