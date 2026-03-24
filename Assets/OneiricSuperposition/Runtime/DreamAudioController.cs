@@ -11,6 +11,15 @@ namespace Oneiric.Superposition
         [SerializeField] private float dreamVolume = 0.7f;
         [SerializeField] private float crossfadeSharpness = 1.5f;
 
+        public void Configure(AudioSource waking, AudioSource dream, float wakingLevel, float dreamLevel, float sharpness = 1.5f)
+        {
+            wakingSource = waking;
+            dreamSource = dream;
+            wakingVolume = wakingLevel;
+            dreamVolume = dreamLevel;
+            crossfadeSharpness = sharpness;
+        }
+
         private void Reset()
         {
             AudioSource[] sources = GetComponentsInChildren<AudioSource>(true);

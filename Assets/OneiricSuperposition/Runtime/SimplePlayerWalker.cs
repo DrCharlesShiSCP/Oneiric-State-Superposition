@@ -32,6 +32,21 @@ namespace Oneiric.Superposition
 
         public Transform CameraPivot => cameraPivot;
 
+        public void Configure(CharacterController controller, Transform pivot)
+        {
+            characterController = controller;
+            cameraPivot = pivot != null ? pivot : transform;
+
+            if (cameraPivot != null)
+            {
+                pitch = cameraPivot.localEulerAngles.x;
+                if (pitch > 180f)
+                {
+                    pitch -= 360f;
+                }
+            }
+        }
+
         private void Reset()
         {
             characterController = GetComponent<CharacterController>();

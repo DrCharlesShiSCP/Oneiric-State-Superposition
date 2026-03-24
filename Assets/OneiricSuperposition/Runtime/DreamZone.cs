@@ -15,6 +15,14 @@ namespace Oneiric.Superposition
         [SerializeField] private Volume localVolume;
         [SerializeField] private float localVolumeWeight = 1f;
 
+        public void Configure(float zoneRadius, float intensityBoost, Volume volume, float volumeWeight = 1f)
+        {
+            radius = zoneRadius;
+            extraDreamIntensity = intensityBoost;
+            localVolume = volume;
+            localVolumeWeight = volumeWeight;
+        }
+
         private void OnEnable()
         {
             if (DreamStateManager.Instance != null)

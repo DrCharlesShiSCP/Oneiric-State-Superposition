@@ -39,6 +39,38 @@ namespace Oneiric.Superposition
 
         private float currentObservation;
 
+        public void Configure(
+            SuperpositionObject target,
+            Transform observedPlayer,
+            Camera observedCamera,
+            ObservationMode observationMode,
+            CollapseResponse response,
+            float radius,
+            float sensitivity,
+            float maxGazeDistance,
+            float speed,
+            float idleBlend,
+            float focusBlend,
+            float idleDistortion,
+            float focusDistortion)
+        {
+            superpositionObject = target;
+            player = observedPlayer;
+            observationCamera = observedCamera;
+            mode = observationMode;
+            collapseResponse = response;
+            observationRadius = radius;
+            gazeSensitivity = sensitivity;
+            gazeMaxDistance = maxGazeDistance;
+            transitionSpeed = speed;
+            restingBlend = idleBlend;
+            observedBlend = focusBlend;
+            restingDistortion = idleDistortion;
+            observedDistortion = focusDistortion;
+            currentObservation = 0f;
+            ApplyRestingState();
+        }
+
         private void Reset()
         {
             superpositionObject = GetComponent<SuperpositionObject>();
@@ -62,13 +94,10 @@ namespace Oneiric.Superposition
             float desiredObservation = EvaluateObservation();
             currentObservation = Mathf.MoveTowards(currentObservation, desiredObservation, transitionSpeed * Time.deltaTime);
 
-            float targetBlend = Mathf.Lerp(restingBlend, observedBlend, currentObservation);
+            float targetBlend = collapseResponse == CollapseResponse.IncreaseDistortion
+                ? restingBlend
+                : Mathf.Lerp(restingBlend, observedBlend, currentObservation);
             float targetDistortion = Mathf.Lerp(restingDistortion, observedDistortion, currentObservation);
-
-            if (collapseResponse == CollapseResponse.IncreaseDistortion)
-            {
-                targetDistortion = Mathf.Lerp(restingDistortion, observedDistortion, currentObservation);
-            }
 
             superpositionObject.SetObservedState(targetBlend, targetDistortion);
         }

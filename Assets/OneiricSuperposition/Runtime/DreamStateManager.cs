@@ -34,6 +34,32 @@ namespace Oneiric.Superposition
         public Transform PlayerTransform => playerTransform;
         public Camera PlayerCamera => playerCamera;
 
+        public void Configure(
+            Transform player,
+            Camera camera,
+            Volume volume,
+            DreamAudioController dreamAudio,
+            ParticleSystem[] particles,
+            float intensity,
+            bool pulse,
+            float amplitude,
+            float speed)
+        {
+            playerTransform = player;
+            playerCamera = camera;
+            globalVolume = volume;
+            audioController = dreamAudio;
+            dreamParticles = particles;
+            baseDreamIntensity = intensity;
+            pulseIntensity = pulse;
+            pulseAmplitude = amplitude;
+            pulseSpeed = speed;
+
+            ResolveReferences();
+            CachePostProcessing();
+            CacheParticles();
+        }
+
         private void Awake()
         {
             Instance = this;
@@ -103,6 +129,11 @@ namespace Oneiric.Superposition
 
         private void CachePostProcessing()
         {
+            bloom = null;
+            vignette = null;
+            chromaticAberration = null;
+            colorAdjustments = null;
+
             if (globalVolume != null && globalVolume.profile != null)
             {
                 globalVolume.profile.TryGet(out bloom);

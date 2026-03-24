@@ -86,6 +86,28 @@ namespace Oneiric.Superposition
             }
         }
 
+        public void Configure(
+            GameObject waking,
+            GameObject dream,
+            float blend,
+            float dreamOpacityMin,
+            float dreamOpacityMax,
+            Vector3 driftAmplitude,
+            Vector3 pulseAmplitude,
+            Vector3 rotationAmplitude)
+        {
+            wakingObject = waking;
+            dreamObject = dream;
+            baseBlend = blend;
+            dreamMinimumOpacity = dreamOpacityMin;
+            dreamMaximumOpacity = dreamOpacityMax;
+            positionDriftAmplitude = driftAmplitude;
+            scalePulseAmplitude = pulseAmplitude;
+            rotationDriftAmplitude = rotationAmplitude;
+
+            InitializeCache();
+        }
+
         private void Awake()
         {
             InitializeCache();

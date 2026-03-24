@@ -14,6 +14,12 @@ namespace Oneiric.Superposition
 
         private float noiseOffset;
 
+        public void Configure(Light lightSource, float intensity)
+        {
+            targetLight = lightSource;
+            baseIntensity = intensity;
+        }
+
         private void Reset()
         {
             targetLight = GetComponent<Light>();
