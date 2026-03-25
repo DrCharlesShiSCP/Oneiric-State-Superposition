@@ -6,7 +6,7 @@ namespace Oneiric.Superposition
     public class DreamZone : MonoBehaviour
     {
         [SerializeField, Range(0f, 1f)] private float zoneBoost = 0.2f;
-        [SerializeField] private string requiredTag = "Player";
+        [SerializeField] private string requiredTag = string.Empty;
 
         public float ZoneBoost
         {
@@ -25,6 +25,11 @@ namespace Oneiric.Superposition
 
         private void OnTriggerEnter(Collider other)
         {
+            if (MatchesTarget(other))
+            {
+                Debug.LogWarning($"DreamZone '{name}' triggered by '{other.name}' with boost {zoneBoost:0.00}.", this);
+            }
+
             TryApply(other);
         }
 

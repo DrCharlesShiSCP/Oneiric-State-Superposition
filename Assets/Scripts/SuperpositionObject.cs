@@ -136,9 +136,18 @@ namespace Oneiric.Superposition
             }
 
             float targetBlend = isObserved ? ResolveObservedBlend() : ResolveRestingBlend();
-            if (DreamStateManager.Instance != null)
+            bool hasDynamicDreamStateInfluence = DreamStateManager.Instance != null && globalDreamInfluence > 0.0001f;
+            if (hasDynamicDreamStateInfluence)
             {
                 targetBlend = Mathf.Lerp(targetBlend, 1f, DreamStateManager.Instance.CurrentIntensity * globalDreamInfluence);
+            }
+
+            bool hasAnimatedDreamMotion = enableDreamScalePulse || enableDreamRotationDrift;
+            if (!hasDynamicDreamStateInfluence &&
+                !hasAnimatedDreamMotion &&
+                Mathf.Abs(currentBlend - targetBlend) <= 0.0001f)
+            {
+                return;
             }
 
             currentBlend = Mathf.MoveTowards(currentBlend, targetBlend, ResolveTransitionSpeed() * Time.deltaTime);

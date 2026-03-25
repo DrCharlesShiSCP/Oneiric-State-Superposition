@@ -30,6 +30,9 @@ namespace Oneiric.Superposition
         [SerializeField] private float transitionSpeed = 3f;
         [SerializeField, Range(0f, 1f)] private float restingBlend = 0.45f;
         [SerializeField, Range(0f, 1f)] private float observedBlend = 0.8f;
+        [SerializeField] private float evaluationInterval = 0.05f;
+
+        private float nextEvaluationTime;
 
         public SuperpositionObject Superposition
         {
@@ -96,6 +99,14 @@ namespace Oneiric.Superposition
             superpositionObject = GetComponent<SuperpositionObject>();
         }
 
+        private void OnValidate()
+        {
+            observationRadius = Mathf.Max(0.1f, observationRadius);
+            gazeAngle = Mathf.Clamp(gazeAngle, 0f, 90f);
+            transitionSpeed = Mathf.Max(0.01f, transitionSpeed);
+            evaluationInterval = Mathf.Max(0.02f, evaluationInterval);
+        }
+
         private void Awake()
         {
             if (superpositionObject == null)
@@ -120,6 +131,13 @@ namespace Oneiric.Superposition
             {
                 return;
             }
+
+            if (Time.time < nextEvaluationTime)
+            {
+                return;
+            }
+
+            nextEvaluationTime = Time.time + Mathf.Max(0.02f, evaluationInterval);
 
             bool isObserved = EvaluateObservation();
             float targetBlend = ResolveObservedBlend();
