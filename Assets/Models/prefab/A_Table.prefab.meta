@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 69fc9ca0260110a4896da8ff173a4337
+timeCreated: 1553611441
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/prefab/A_Table.prefab
+  uploadId: 612674

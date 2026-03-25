@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 41c4a86e86f36c040ab40cbcc781b93e
+timeCreated: 1573631734
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/prefab/Pack_pelmeni_8.prefab
+  uploadId: 612674

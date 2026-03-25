@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a5b094bf0cbd86e4f9c93c2ae1a43b1e
+timeCreated: 1553690362
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/Materials/plane.mat
+  uploadId: 612674

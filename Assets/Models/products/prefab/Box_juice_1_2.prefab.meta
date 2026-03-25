@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7a798fd587073d343b010d14b7fa7754
+timeCreated: 1573720194
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/prefab/Box_juice_1_2.prefab
+  uploadId: 612674

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4b5c849fa25c9514f8fe3f7fed583b7e
+timeCreated: 1574779230
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/prefab/Paper_box_3.prefab
+  uploadId: 612674

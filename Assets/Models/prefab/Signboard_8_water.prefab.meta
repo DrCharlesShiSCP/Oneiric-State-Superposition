@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e8ffea2dd6c802c4ab1b9bce4f6b12a7
+timeCreated: 1574779704
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/prefab/Signboard_8_water.prefab
+  uploadId: 612674

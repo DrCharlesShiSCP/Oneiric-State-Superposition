@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ae9c68b378163d842bc5e8d394e28372
+timeCreated: 1573475965
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/prefab/Tomato.prefab
+  uploadId: 612674

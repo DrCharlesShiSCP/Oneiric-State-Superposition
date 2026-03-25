@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1d9d31a15b52c7c49b4fd9c7f097f6fa
+timeCreated: 1553506635
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/Materials/Trolley.mat
+  uploadId: 612674

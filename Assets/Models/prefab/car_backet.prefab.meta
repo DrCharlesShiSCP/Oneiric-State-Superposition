@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9262b7c5e97f7aa4d975f9d0f8ba1d85
+timeCreated: 1573472787
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/prefab/car_backet.prefab
+  uploadId: 612674

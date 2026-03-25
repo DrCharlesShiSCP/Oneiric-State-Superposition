@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d48f277c09ef8c84caedcdbaf5b87075
+timeCreated: 1573720167
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/prefab/Box_crispie_1_4.prefab
+  uploadId: 612674

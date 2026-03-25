@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 066eb2c1002fd514e8ebe2dbe3cedfa0
+timeCreated: 1573546158
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/prefab/Price_checker.prefab
+  uploadId: 612674

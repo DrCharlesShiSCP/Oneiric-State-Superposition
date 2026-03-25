@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ee85d2b5a9a0a7f4ca6ceabfd4c616bf
+timeCreated: 1573631648
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/prefab/Pack_crips_6.prefab
+  uploadId: 612674

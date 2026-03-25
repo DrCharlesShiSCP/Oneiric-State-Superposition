@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 756bcdec395d3aa4e8f9aba0b81ed88d
+timeCreated: 1573550471
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/prefab/Fence_1_2.prefab
+  uploadId: 612674

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5606b1efc733e42468a854635340402a
+timeCreated: 1573545769
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/Materials/Locker.mat
+  uploadId: 612674

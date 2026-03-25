@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6fbf02e292adc9b4984fdff00369d46d
+timeCreated: 1574779990
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/prefab/Icecream_2_5.prefab
+  uploadId: 612674

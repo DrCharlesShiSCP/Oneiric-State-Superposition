@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 23ddf0ff2d33dd542a45b3dd0f4692b5
+timeCreated: 1573551182
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/prefab/fish_1.prefab
+  uploadId: 612674

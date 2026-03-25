@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5515475e666e18f44b1836c770679ecc
+timeCreated: 1573473418
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/prefab/grocery_rack.prefab
+  uploadId: 612674

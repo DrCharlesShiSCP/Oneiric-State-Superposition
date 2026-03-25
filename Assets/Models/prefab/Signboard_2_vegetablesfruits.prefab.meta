@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2969ac957ee4da14698ea395e6359d9d
+timeCreated: 1574779725
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/prefab/Signboard_2_vegetablesfruits.prefab
+  uploadId: 612674

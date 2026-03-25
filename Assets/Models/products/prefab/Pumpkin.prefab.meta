@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fde64d415ca431a4eaebe699dd854bbe
+timeCreated: 1573475900
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/prefab/Pumpkin.prefab
+  uploadId: 612674

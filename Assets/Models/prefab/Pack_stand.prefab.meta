@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f74a4126adb317b459377b0f199088bb
+timeCreated: 1574779093
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/prefab/Pack_stand.prefab
+  uploadId: 612674

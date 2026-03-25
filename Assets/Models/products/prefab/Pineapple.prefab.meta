@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c0da04aa752db16459f8478f52802f93
+timeCreated: 1573475797
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142966
+  packageName: Grocery store - interior and props
+  packageVersion: 2.0
+  assetPath: Assets/Grocery store - interior and props/Models/products/prefab/Pineapple.prefab
+  uploadId: 612674
